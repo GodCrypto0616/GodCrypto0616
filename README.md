@@ -21,16 +21,3 @@ Digital Ocean
 
  Experienced Technology: Streaming & Image, Audio Processing
 
----------Cardano----------
-https://cardanoanimals.io/
-
-----------NFT Marketplace--------------
-https://nft.zonoswap.com/
-https://stg.mindfulness.gallery/
-https://nft.hertz-network.com/home
-https://nft.keyswap.exchange/
-
----------NFT Staking Platform-----------
-https://ghart.io/
-http://koboldcoin.org/#home
-![image](https://user-images.githubusercontent.com/28731786/173983977-6ddff53e-0d68-4dc3-a1d6-eec939428df1.png)
