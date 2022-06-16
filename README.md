@@ -1,6 +1,6 @@
 A Professional Web & Blockchain Engineer
 
-Dear clients!!! Thank you for visiting my profile.
+Thank you for visiting my profile.
 Are you looking for a passionate professional, who can help you to solve your problems in an effective and convenient way?
 Then you have landed on the right profile.
 With hard-earned knowledge, skills and 6+ years of continuous learning, hustle and improvements as a developer, I would be able to help you in the best possible way, fulfilling your requirements from Design to Deploy.
