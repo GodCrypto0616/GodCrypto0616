@@ -40,7 +40,7 @@
     <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=flat&logo=bitcoin&logoColor=white" />
   </a>
   <a>
-    <img alt="Bitcoin" src="https://img.shields.io/badge/Ethereum-ab790d?style=flat&logo=ethereum&logoColor=white" />
+    <img alt="Bitcoin" src="https://img.shields.io/badge/Ethereum-05122A?style=flat&logo=ethereum&logoColor=white" />
   </a>
   <a>
     <img alt="Solidity" src="https://github.com/charles0831/charles0831/raw/main/icons/solidity.png" />
