@@ -1,4 +1,4 @@
-I am Sr Blockchain Engineer with extensive experience in developing DApps Projects
+I am Senior Blockchain Engineer with extensive experience in developing DApps Projects
 
 ⭐️ Blockchain Development:
 
@@ -67,3 +67,5 @@ I am Sr Blockchain Engineer with extensive experience in developing DApps Projec
 ✅ GitLab
 
 ✅ Bitbucket 
+
+Bitcoin Solidity JavaScript Python C# Nodejs React.js Redux Angular Vue.js Express.js TypeScript Laravel Css Sass GraphQL MySQL MongoDB PostgreSQL SQLite Amazon Docker Git Gitlab Github Github actions
