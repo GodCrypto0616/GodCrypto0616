@@ -1,18 +1,14 @@
-I am Software Engineer (Blockchain development, full stack web development, Application Development)
+I am Sr Blockchain Engineer with extensive experience in developing DApps Projects
 
 ⭐️ Blockchain Development:
-
-✅ Blockchain Development
-
-✅ Cryptocurrency, Smart contract, Custom Blockchain, Crypto App Development
-
-✅ Ongoing Blockchain Development Support and Maintenance
 
 ✅ Olympus Dao Platform Building
 
 ✅ Unity game, Unreal Engine
 
-✅ Web3 and Wallet integration, Frontend Integration
+✅ Web3.js, Web3.py for Blockchain Interactive with Frontend
+
+✅ Token Development and Deployment with tokenomics
 
 ✅ NFT minting website, Smart contract, Generating NFT images, NFT metaverse game, dApp development
 
@@ -23,10 +19,6 @@ I am Software Engineer (Blockchain development, full stack web development, Appl
 ✅ VueJs, ReactJs, NodeJs Application integration and deployment
 
 ✅ Solidity, Rust, Golang, C++, Java, Python
-
-✅ Python Server setup and App deployment
-
-✅ PHP, Laravel, Symfony server setup and deployment
 
 ⭐️ Full Stack Web Development:
 
