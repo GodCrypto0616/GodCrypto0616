@@ -1,6 +1,6 @@
-<b>Senior Blockchain Engineer with Extensive Experience in developing DApps.</b><br>
+<h2>Senior Blockchain Engineer with Extensive Experience in developing DApps.</h2><br>
 
-<h2>⭐️ Blockchain Development:</h2>
+<b>⭐️ Blockchain Development:</b>
 <br>&nbsp; &nbsp; * Smart Contract Development & Deployment, and Audit
 <br>&nbsp; &nbsp; * Unity game, Unreal Engine
 <br>&nbsp; &nbsp; * NFT-related Projects(Minting, Staking, Marketplace) based on all EVM chains, and Solana using Solidity and Rust.
@@ -11,7 +11,7 @@
 <br>&nbsp; &nbsp; * Cross-Chain-Bridge Development.
 <br>&nbsp; &nbsp; * Trading Bot(sniper bot, arbitrage bot, frontrunning bot)
 
-<h2>⭐️ Full Stack Web Development:</h2>
+<b>⭐️ Full Stack Web Development:</b>
 <br>&nbsp; &nbsp; * HTML5, CSS3, Javascript, ES5, ES6, etc
 <br>&nbsp; &nbsp; * jQuery, Bootstrap,
 <br>&nbsp; &nbsp; * D3.js, Chart.js, AnyChart.js, HighChart.js, Anime.js, etc
@@ -25,7 +25,7 @@
 <br>&nbsp; &nbsp; * XML, CSV, JSON, MySQL, MongoDB, Oracle, Postgresql, SqLite, MSSQL, InfluxDB,
 <br>&nbsp; &nbsp; * PHP, Codeigniter, Laravel, Symphony, Yii, CakePHP, etc
 
-<h2>⭐️ Full Stack Application Development:</h2>
+<b>⭐️ Full Stack Application Development:</b>
 <br>&nbsp; &nbsp; * Signal Processing, Data Science, Machine learning, Deep learning, Image processing, Pattern Recognition
 <br>&nbsp; &nbsp; * Python, Numpy, Scipy, Pandas, Matplotlib, Pillow, Keras, Scikit-learn, Scikit-image, Tensorflow, Pytorch, etc.
 <br>&nbsp; &nbsp; * Java, J2EE, Spring, etc.
@@ -33,11 +33,14 @@
 <br>&nbsp; &nbsp; * C, C++, OpenCV, Qt/QML, and other C++ libraries.
 <br>&nbsp; &nbsp; * Golang
 
-<h1 align="center">🛠 Tech</h1>
+<h1>🛠 Tech</h1>
 
 <div>
   <a>
     <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=flat&logo=bitcoin&logoColor=white" />
+  </a>
+  <a>
+    <img alt="Bitcoin" src="https://img.shields.io/badge/Ethereum-ab790d?style=flat&logo=ethereum&logoColor=white" />
   </a>
   <a>
     <img alt="Solidity" src="https://github.com/charles0831/charles0831/raw/main/icons/solidity.png" />
