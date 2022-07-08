@@ -1,4 +1,4 @@
-<h2>Senior Blockchain Engineer with Extensive Experience in developing DApps.</h2><br>
+<h2>Senior Blockchain Engineer</h2><br>
 
 <b>⭐️ Blockchain Development:</b>
 <br>&nbsp; &nbsp; * Smart Contract Development & Deployment, and Audit
