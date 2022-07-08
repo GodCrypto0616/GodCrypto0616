@@ -3,7 +3,7 @@
 <b>⭐️ Blockchain Development:</b>
 <br>&nbsp; &nbsp; * Smart Contract Development & Deployment, and Audit
 <br>&nbsp; &nbsp; * Unity game, Unreal Engine
-<br>&nbsp; &nbsp; * NFT-related Projects(Minting, Staking, Marketplace) based on all EVM chains, and Solana using Solidity and Rust.
+<br>&nbsp; &nbsp; * NFT-related Projects(Minting, Staking, Marketplace) based on all EVM chains, Flow, and Solana using Solidity and Rust.
 <br>&nbsp; &nbsp; * NFT Art Generating using Hashlips Engine
 <br>&nbsp; &nbsp; * Olympus Dao Platform Building
 <br>&nbsp; &nbsp; * DeFi Apps(Lending & Borrowing, Yield Farming & Pool, Staking, Banking, CEX/DEX)
