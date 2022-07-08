@@ -141,3 +141,9 @@
     <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=CryptDefi192&style=for-the-badge"/></a>
 </p>
 <br />
+
+### Contact me:
+
+[![telegram](https://user-images.githubusercontent.com/23559697/168880880-31e2979b-c077-4dbb-9c89-40e39e657080.png)](https://t.me/godcryptodev)
+[![mail](https://user-images.githubusercontent.com/23559697/168882584-d8a64bc4-6194-4e6c-b792-46e68a5e25c2.png)](mailto:godcrypto0616@gmail.com)
+
