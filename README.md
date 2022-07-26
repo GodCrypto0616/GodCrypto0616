@@ -3,6 +3,7 @@ https://linktr.ee/godcrypto<br><br>
 <b>⭐️ Blockchain Development:</b>
 <br>&nbsp; &nbsp; * Smart Contract Development & Deployment, and Audit
 <br>&nbsp; &nbsp; * Unity game, Unreal Engine
+<br>&nbsp; &nbsp; * BAS Chain
 <br>&nbsp; &nbsp; * NFT-related Projects(Minting, Staking, Marketplace) based on all EVM chains, Flow, and Solana using Solidity and Rust.
 <br>&nbsp; &nbsp; * NFT Art Generating using Hashlips Engine
 <br>&nbsp; &nbsp; * Olympus Dao Platform Building
@@ -18,20 +19,17 @@ https://linktr.ee/godcrypto<br><br>
 <br>&nbsp; &nbsp; * Typescript, Tailwind CSS
 <br>&nbsp; &nbsp; * Nodejs, Expressjs, Nestjs, Meteorjs, and other JS frameworks integration
 <br>&nbsp; &nbsp; * Reactjs, React Bootstrap, React Fuse, React Redux, React Material UI, React Router, Nextjs, Semantic UI, React Motion
-<br>&nbsp; &nbsp; * Vuejs, Veutify, BootstrapVue, Buefy, CoreUI Vue, Vue Material, Vuesax, iView, PrimeVue, Element, Keen UI, Mint UI, VueTailwind
-<br>&nbsp; &nbsp; * Angularjs, Material, NGX Bootstrap, Prime NG, Vaadin, Nebular, NG Lightning
+<br>&nbsp; &nbsp; * Vuejs
+<br>&nbsp; &nbsp; * Angularjs
 <br>&nbsp; &nbsp; * REST API, REST API frameworks
-<br>&nbsp; &nbsp; * ASP.NET, Swagger, Saaskit, Azure, Agile
-<br>&nbsp; &nbsp; * XML, CSV, JSON, MySQL, MongoDB, Oracle, Postgresql, SqLite, MSSQL, InfluxDB,
+<br>&nbsp; &nbsp; * XML, CSV, JSON, MySQL, MongoDB, Oracle, Postgresql, SqLite, MSSQL,
 <br>&nbsp; &nbsp; * PHP, Codeigniter, Laravel, Symphony, Yii, CakePHP, etc
 
 <b>⭐️ Full Stack Application Development:</b>
-<br>&nbsp; &nbsp; * Signal Processing, Data Science, Machine learning, Deep learning, Image processing, Pattern Recognition
-<br>&nbsp; &nbsp; * Python, Numpy, Scipy, Pandas, Matplotlib, Pillow, Keras, Scikit-learn, Scikit-image, Tensorflow, Pytorch, etc.
+<br>&nbsp; &nbsp; * Python, Tensorflow, etc.
 <br>&nbsp; &nbsp; * Java, J2EE, Spring, etc.
-<br>&nbsp; &nbsp; * C#, VB.NET, F#, .NET, WPF, UWP, Azure, Aforge.net, Accord.net,
+<br>&nbsp; &nbsp; * C#, VB.NET, .NET,
 <br>&nbsp; &nbsp; * C, C++, OpenCV, Qt/QML, and other C++ libraries.
-<br>&nbsp; &nbsp; * Golang
 
 <h1>🛠 Tech</h1>
 
