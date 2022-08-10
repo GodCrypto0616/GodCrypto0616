@@ -10,7 +10,6 @@ https://linktr.ee/godcrypto<br><br>
 <br>&nbsp; &nbsp; * DeFi Apps(Lending & Borrowing, Yield Farming & Pool, Staking, Banking, CEX/DEX)
 <br>&nbsp; &nbsp; * Cryptocurrency Exchange Platform Development.
 <br>&nbsp; &nbsp; * Cross-Chain-Bridge Development.
-<br>&nbsp; &nbsp; * Trading Bot(sniper bot, arbitrage bot, frontrunning bot)
 
 <b>⭐️ Full Stack Web Development:</b>
 <br>&nbsp; &nbsp; * HTML5, CSS3, Javascript, ES5, ES6, etc
@@ -18,12 +17,12 @@ https://linktr.ee/godcrypto<br><br>
 <br>&nbsp; &nbsp; * D3.js, Chart.js, AnyChart.js, HighChart.js, Anime.js, etc
 <br>&nbsp; &nbsp; * Typescript, Tailwind CSS
 <br>&nbsp; &nbsp; * Nodejs, Expressjs, Nestjs, Meteorjs, and other JS frameworks integration
-<br>&nbsp; &nbsp; * Reactjs, React Bootstrap, React Fuse, React Redux, React Material UI, React Router, Nextjs, Semantic UI, React Motion
+<br>&nbsp; &nbsp; * Reactjs, React Bootstrap, React Fuse, React Redux, React Material UI, React Router, Nextjs
 <br>&nbsp; &nbsp; * Vuejs
 <br>&nbsp; &nbsp; * Angularjs
 <br>&nbsp; &nbsp; * REST API, REST API frameworks
 <br>&nbsp; &nbsp; * XML, CSV, JSON, MySQL, MongoDB, Oracle, Postgresql, SqLite, MSSQL,
-<br>&nbsp; &nbsp; * PHP, Codeigniter, Laravel, Symphony, Yii, CakePHP, etc
+<br>&nbsp; &nbsp; * PHP, Codeigniter, Laravel, Yii, CakePHP, etc
 
 <b>⭐️ Full Stack Application Development:</b>
 <br>&nbsp; &nbsp; * Python, Tensorflow, etc.
