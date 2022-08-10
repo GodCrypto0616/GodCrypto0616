@@ -121,21 +121,21 @@ https://linktr.ee/godcrypto<br><br>
 >GitHub Statistics
 <p align="center">
     <a>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CryptDefi192&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CryptDefi192&layout=compact&langs_count=8&theme=algolia"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GodCrypto0616&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GodCrypto0616&layout=compact&langs_count=8&theme=algolia"/>
     </a>
 </p>
 > GitHub Activity Graph
-<!-- https://github.com/CryptDefi192/github-readme-activity-graph -->
-<a href="https://github.com/CryptDefi192/CryptDefi192"><img alt="IlliaButenko's activity graph" src="https://activity-graph.herokuapp.com/graph?username=CryptDefi192&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+<!-- https://github.com/GodCrypto0616/github-readme-activity-graph -->
+<a href="https://github.com/GodCrypto0616/GodCrypto0616"><img alt="IlliaButenko's activity graph" src="https://activity-graph.herokuapp.com/graph?username=GodCrypto0616&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 
 <p align="right">
-  <a href="https://github.com/CryptDefi192?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/CryptDefi192"/></a>
-  <a href="https://github.com/CryptDefi192?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/CryptDefi192?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/CryptDefi192">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=CryptDefi192&style=for-the-badge"/></a>
+  <a href="https://github.com/GodCrypto0616?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/GodCrypto0616"/></a>
+  <a href="https://github.com/GodCrypto0616?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/GodCrypto0616?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/GodCrypto0616">
+    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=GodCrypto0616&style=for-the-badge"/></a>
 </p>
 <br />
 
@@ -143,4 +143,3 @@ https://linktr.ee/godcrypto<br><br>
 
 [![telegram](https://user-images.githubusercontent.com/23559697/168880880-31e2979b-c077-4dbb-9c89-40e39e657080.png)](https://t.me/godcryptodev)
 [![mail](https://user-images.githubusercontent.com/23559697/168882584-d8a64bc4-6194-4e6c-b792-46e68a5e25c2.png)](mailto:godcrypto0616@gmail.com)
-
