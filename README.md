@@ -4,6 +4,7 @@ https://linktr.ee/godcrypto<br><br>
 <br>&nbsp; &nbsp; * Smart Contract Development & Deployment, and Audit
 <br>&nbsp; &nbsp; * Unity game, Unreal Engine
 <br>&nbsp; &nbsp; * BAS Chain
+<br>&nbsp; &nbsp; * BEP20, ERC20 Token Development
 <br>&nbsp; &nbsp; * NFT-related Projects(Minting, Staking, Marketplace) based on all EVM chains, Flow, and Solana using Solidity and Rust.
 <br>&nbsp; &nbsp; * NFT Art Generating using Hashlips Engine
 <br>&nbsp; &nbsp; * Olympus Dao Platform Building
